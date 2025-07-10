@@ -3,7 +3,7 @@
 
   - To start, create a `.env` file and specify the token for connecting to the API:
   ```cmd
-  echo OPENAI_API_KEY=your-api-key-here > .env 
+  echo .env-example > .env 
   ```
   - agent launch:
   ```cmd 
